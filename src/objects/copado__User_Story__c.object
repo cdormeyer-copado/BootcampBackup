@@ -7505,6 +7505,7 @@ IMAGE(&quot;/img/samples/color_yellow.gif&quot;, &quot;white&quot;, 15,
         <columns>copado__Sprint__c</columns>
         <columns>copado__Project__c</columns>
         <columns>copado__Release__c</columns>
+        <columns>copado__Exclude_From_CBM__c</columns>
         <filterScope>Everything</filterScope>
         <filters>
             <field>copado__Priority__c</field>
